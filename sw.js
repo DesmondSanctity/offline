@@ -1,10 +1,12 @@
+// version number of the cache
 let cacheVersion = "cache-v1";
 
 self.addEventListener("install", event => {
     const urlsToCache = [
         // include the urls you want to cache
-        // 'dist/index.html',
-        // 'css/index.css'
+        'dist/index.html',
+        'css/index.css'
+        // make sure to replace this urls with yours if they do not match your needs
     ];
 
     event.waitUntil(
