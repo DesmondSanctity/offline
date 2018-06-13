@@ -11,9 +11,10 @@ to make web applications work in any network condition even when your network is
 
 To get started using offline follow the following procedures:
 
-* Clone this repo to your local machine
+* Clone this repo to your local machine.
 * Copy the `sw.js` file which conatains boilerplate code.
 * Copy the `index.js` file which contains the code for the service worker registration.
+* Edit the `manifest.json` file with your app. details.
 * Edit the either of the two files to match your needs.
 * Build and deploy your project.
 

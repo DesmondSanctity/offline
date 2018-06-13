@@ -1,0 +1,8 @@
+
+{
+    "name": "offline",
+    "short_name": "offline",
+    "start_url": "index.html",
+    "background_color": "black",
+    "display": "standalone"
+}
