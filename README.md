@@ -29,5 +29,12 @@ to help you get started.
 * [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 * [Offline web application](https://www.udacity.com/course/offline-web-applications--ud899)
 
-*HAPPY CONTRIBUTING
+## Contributing
 
+Your contributions are very much welcome. You can conttribute by:
+
+* opening issues for any bug you discover.
+* Help improve the Documentation.
+* Make PR for new features you love us to include.
+
+HAPPY CONTRIBUTING
