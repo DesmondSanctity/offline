@@ -37,4 +37,4 @@ Your contributions are very much welcome. You can conttribute by:
 * Help improve the Documentation.
 * Make PR for new features you love us to include.
 
-Happy Contributing.
+HAPPY CONTRIBUTING
