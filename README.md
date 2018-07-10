@@ -31,7 +31,7 @@ to help you get started.
 
 ## Contributing
 
-Your contributions are very much welcome. You can conttribute by:
+Your contributions are very much welcome. You can contribute by:
 
 * opening issues for any bug you discover.
 * Help improve the Documentation.
