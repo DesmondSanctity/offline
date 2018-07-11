@@ -1,4 +1,4 @@
-# offline
+# Offline
 **offline** is a service-worker boilerplate for building progressive web apps.
 
 ## Overview 
@@ -6,6 +6,8 @@
 service workers are basically web workers that intercepts network request made from a client to the network. 
 The ability of service workers to intercept network request before they get to the network gives it the super powers
 to make web applications work in any network condition even when your network is in lie-fie mode (lie-fie is [Jake Archibald](https://twitter.com/jaffathecake) word for bad networks).
+
+click [OFFLINE](https://opara-prosper.github.io/offline/dist/) to checkout the official site.
 
 ##  Getting started
 
@@ -31,7 +33,7 @@ to help you get started.
 
 ## Contributing
 
-Your contributions are very much welcome. You can conttribute by:
+Your contributions are very much welcome. You can contribute by:
 
 * opening issues for any bug you discover.
 * Help improve the Documentation.
