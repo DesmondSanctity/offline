@@ -7,6 +7,8 @@ service workers are basically web workers that intercepts network request made f
 The ability of service workers to intercept network request before they get to the network gives it the super powers
 to make web applications work in any network condition even when your network is in lie-fie mode (lie-fie is [Jake Archibald](https://twitter.com/jaffathecake) word for bad networks).
 
+click [OFFLINE](https://opara-prosper.github.io/offline/dist/) to checkout the official site.
+
 ##  Getting started
 
 To get started using offline follow the following procedures:
